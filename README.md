@@ -5,5 +5,5 @@ Resume for Whitney Bullock Sr. Global Logistics and Sales Operations Manager, MS
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 Text Analytics for Seong Buk Dong
 A data-driven exploration of customer sentiment and operational improvement strategies for Seong Buk Dong, a Korean restaurant in Los Angeles.
-# Fall 2025 Group Project IS6812 
+# [Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd) 
 IS6812-001 group project
