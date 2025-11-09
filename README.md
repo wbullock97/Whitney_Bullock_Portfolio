@@ -25,6 +25,9 @@ Data Analytics: Predictive Modeling, Statistical Analysis, Dashboard Design
 <img src="https://github.com/wbullock97/Whitney_Bullock_Portfolio/blob/main/images/seong%20buk%20dong.png" alt="Whitney Bullock" width="200"/>
 
 Text Analytics for Seong Buk Dong
-A data-driven exploration of customer sentiment and operational improvement strategies for Seong Buk Dong, a Korean restaurant in Los Angeles.
+Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authentic flavors to critiques around service, ambiance, and value. With hundreds of reviews spanning varied levels of detail, the challenge is to extract actionable insights.
+
+In this project, we apply text analysis to reviews of Seong Buk Dong and its top-performing competitors. Our objective is to identify patterns in customer feedback—especially factors that contribute to higher ratings—such as better service, improved atmosphere, and enhanced dish presentation.
+
 # [Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd) 
 IS6812-001 group project
