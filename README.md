@@ -34,3 +34,7 @@ In this project, we apply text analysis to reviews of Seong Buk Dong and its top
 
 # [Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd) 
 IS6812-001 group project
+
+# [Machine Learning Modeling](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
+
+Home Credit is a financial services provider specializing in lending to individuals with little or no credit history, empowering them with easy and safe access to financing. It is crucial for Home Credit to accurately assess a customer’s ability to repay in order to identify reliable target customers. By effectively predicting repayment capability, Home Credit can responsibly extend credit to a larger customer base while minimizing financial risk to the company and its investors.
