@@ -15,14 +15,22 @@ Master of Science, Business Analytics	                                          
 Bachelor of Science, Marketing       	                                                                                                                  May 2013
 
 **SKILLS**
-**Databases/Big Data/ Data Visualization: **Excel, Qlik, RStudio, Data Mining,  Process Control 
-**Certifications:** Six Sigma Green Belt, IATA Hazmat  
+**Databases/Big Data/ Data Visualization:** Excel, Qlik, RStudio, Data Mining,  Process Control 
+
+**Certifications:** Six Sigma Green Belt, IATA Hazmat
+
 **Software Proficiency:** SAP, TMC, Microsoft Office Suite, Python, SQL, Visio, Canva
+
 **International Business:** Cultural Awareness, Contract Negotiations, Market Research 
+
 **Critical Thinking:**  Business Acumen, Data-Driven Decision Making, Root Cause Analysis
+
 **Logistics & Supply Chain Management:** Global Logistics Strategy, Freight Cost Optimization, Inventory Management
+
 **Project Management & Leadership:** Cross-Functional Team Leadership, Process Improvement, Change Management
+
 **Data Analytics:** Predictive Modeling, Statistical Analysis, Dashboard Design
+
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 
 <img src="/images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
