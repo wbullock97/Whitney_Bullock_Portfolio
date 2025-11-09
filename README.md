@@ -25,7 +25,7 @@ Bachelor of Science, Marketing       	                                          
 **Data Analytics:** Predictive Modeling, Statistical Analysis, Dashboard Design
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 
-<img src="https://github.com/wbullock97/Whitney_Bullock_Portfolio/blob/main/images/seong%20buk%20dong.png" alt="Whitney Bullock" width="200"/>
+<img src="/images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
 
 Text Analytics for Seong Buk Dong
 Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authentic flavors to critiques around service, ambiance, and value. With hundreds of reviews spanning varied levels of detail, the challenge is to extract actionable insights.
