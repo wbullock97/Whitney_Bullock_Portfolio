@@ -4,7 +4,7 @@ I’m Whitney Bullock, a Sr. Operations Manager who specializing in technologies
 <img src="https://github.com/wbullock97/Whitney_Bullock_Portfolio/blob/main/images/headshot.jpg" alt="Whitney Bullock" width="200"/>
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
-Resume for Whitney Bullock Sr. Global Logistics and Sales Operations Manager, MS Grad Student, Mentor and Coach
+Whitney Bullock Sr. Global Logistics and Sales Operations Manager, MS Grad Student, Mentor and Coach
 
 EDUCATION
 University of Utah, David Eccles School of Business                                                                                                       Salt Lake City, UT
