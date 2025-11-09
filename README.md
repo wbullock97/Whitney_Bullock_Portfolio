@@ -33,7 +33,7 @@ Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authe
 In this project, we apply text analysis to reviews of Seong Buk Dong and its top-performing competitors. Our objective is to identify patterns in customer feedback—especially factors that contribute to higher ratings—such as better service, improved atmosphere, and enhanced dish presentation.
 
 # [Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd) 
-IS6812-001 group project
+Sentiment and topic analysis on textual data related to Seongbuk-dong. The sentiment analysis revealed that the majority of posts and reviews expressed positive or neutral emotions, highlighting satisfaction with local amenities and community atmosphere. Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes. The combination of sentiment and topic insights provides a nuanced understanding of public perception, showing not only what people are discussing about Seongbuk-dong but also how they feel about it, which can inform urban planning, community engagement, and tourism strategies.
 
 # [Machine Learning Modeling](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
 
