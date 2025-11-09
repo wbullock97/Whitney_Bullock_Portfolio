@@ -39,7 +39,3 @@ Sentiment and topic analysis on textual data related to Seongbuk-dong. The senti
 
 Home Credit is a financial services provider specializing in lending to individuals with little or no credit history, empowering them with easy and safe access to financing. It is crucial for Home Credit to accurately assess a customer’s ability to repay in order to identify reliable target customers. By effectively predicting repayment capability, Home Credit can responsibly extend credit to a larger customer base while minimizing financial risk to the company and its investors.
 
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
