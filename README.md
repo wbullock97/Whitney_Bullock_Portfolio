@@ -5,7 +5,7 @@ I’m Whitney Bullock, a Sr. Operations Manager who specializing in technologies
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
-![](/images/headshot.jpg" alt="Whitney Bullock" width="200"/>
+![](/images/headshot.jpg)
 
 Whitney Bullock Sr. Global Logistics and Sales Operations Manager, MS Grad Student, Mentor and Coach
 
