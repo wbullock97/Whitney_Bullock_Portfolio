@@ -22,7 +22,7 @@ Project Management & Leadership: Cross-Functional Team Leadership, Process Impro
 Data Analytics: Predictive Modeling, Statistical Analysis, Dashboard Design
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 
-<img src="https://github.com/wbullock97/Whitney_Bullock_Portfolio/blob/main/images/headshot.jpg" alt="Whitney Bullock" width="200"/>
+<img src="https://github.com/wbullock97/Whitney_Bullock_Portfolio/blob/main/images/seong%20buk%20dong.png" alt="Whitney Bullock" width="200"/>
 
 Text Analytics for Seong Buk Dong
 A data-driven exploration of customer sentiment and operational improvement strategies for Seong Buk Dong, a Korean restaurant in Los Angeles.
