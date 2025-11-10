@@ -1,7 +1,4 @@
 # Whitney_Bullock_Portfolio
-Hello! I’m Whitney Bullock, a Sr. Operations Manager who specializing in technologies and languages. My GitHub highlights projects that solve real-world problems, showcase best practices, and push me to learn more. I’m passionate about AI and automation and I love collaborating with others on open-source initiatives.
-
-
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
