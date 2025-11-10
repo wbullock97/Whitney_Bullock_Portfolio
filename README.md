@@ -4,7 +4,7 @@
 
 <img src="/images/headshot.jpg" alt="Headshot" width="150" />
 
-Whitney Bullock Sr. Global Logistics and Sales Operations Manager, MS Grad Student, Mentor and Coach
+Global Logistics and Sales Operations Sr. Manager, MS Grad Student, Mentor and Coach
 
 **EDUCATION**
 University of Utah, David Eccles School of Business                                                                                                       Salt Lake City, UT
