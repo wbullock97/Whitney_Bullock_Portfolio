@@ -2,7 +2,7 @@
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
-<img src="/images/headshot.jpg" alt="Headshot" width="150" />
+<img src="images/headshot.jpg" alt="Headshot" width="150" />
 
 Global Logistics and Sales Operations Sr. Manager, MS Grad Student, Mentor and Coach
 
@@ -23,7 +23,7 @@ Bachelor of Science, Marketing       	                                          
 
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 
-<img src="/images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
+<img src="images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
 
 Text Analytics for Seong Buk Dong
 Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authentic flavors to critiques around service, ambiance, and value. With hundreds of reviews spanning varied levels of detail, the challenge is to extract actionable insights.
