@@ -1,4 +1,4 @@
-# Whitney_Bullock_Portfolio
+# Whitney_Bullock
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
