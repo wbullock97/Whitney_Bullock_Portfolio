@@ -1,6 +1,10 @@
 title: "Whitney Bullock"
-<img src="images/headshot.jpg" alt="Headshot" width="150" />
-description: Hello! I’m Whitney Bullock, a Sr. Operations Manager who specializing in technologies and languages. My GitHub highlights projects that solve real-world problems, showcase best practices, and push me to learn more. I’m passionate about AI and automation and I love collaborating with others on open-source initiatives.
+logo: "/images/headshot.jpg"
+description: 
+  Hello! I’m Whitney Bullock, a Sr. Operations Manager who specializing in technologies and languages. 
+  My GitHub highlights projects that solve real-world problems, showcase best practices, and push me 
+  to learn more. I’m passionate about AI and automation and I love collaborating with others on 
+  open-source initiatives.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
