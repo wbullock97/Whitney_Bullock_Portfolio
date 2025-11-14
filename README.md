@@ -1,16 +1,22 @@
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
-## Experience 
+### Experience 
 Global Logistics and Sales Operations Sr. Manager
+Varex Imaging Corporation 
 
-## Education 
+### Education 
 University of Utah, David Eccles School of Business
-Masters of Science Business Analytics 2026 
-Bachelors of Science Business Marketing 2013 
+Masters of Science, Business Analytics May 2026 
+Bachelors of Science, Business Marketing May 2013 
 
 ### Skills 
-
+Databases, Big Data, Data Visualization
+Data Analytics, Predicitive modeling 
+Six Sigma Green Belt 
+Proficient in SAP, TMC, R, Microsoft Office, Canva, Visio 
+International business acumen 
+Project management and leadership 
 
 
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
