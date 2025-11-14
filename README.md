@@ -3,6 +3,7 @@
 
 Global Logistics and Sales Operations Sr. Manager
 
+##Education##
 University of Utah, David Eccles School of Business
 Masters of Science Business Analytics 2026 
 Bachelors of Science Business Marketing 2013 
