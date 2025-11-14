@@ -1,8 +1,5 @@
-# Whitney_Bullock
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
-
-<img src="images/headshot.jpg" alt="Headshot" width="150" />
 
 Global Logistics and Sales Operations Sr. Manager
 
