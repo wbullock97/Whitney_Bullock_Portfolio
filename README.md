@@ -1,5 +1,5 @@
 
-# [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
+# [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
 ### Experience 
 Global Logistics and Sales Operations Sr. Manager
@@ -19,7 +19,7 @@ International business acumen
 Project management and leadership 
 
 
-# [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
+# [Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 
 <img src="images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
 
