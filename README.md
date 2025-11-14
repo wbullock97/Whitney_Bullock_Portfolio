@@ -1,12 +1,16 @@
 
 # [Bullock Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
+## Experience 
 Global Logistics and Sales Operations Sr. Manager
 
-##Education##
+## Education 
 University of Utah, David Eccles School of Business
 Masters of Science Business Analytics 2026 
 Bachelors of Science Business Marketing 2013 
+
+### Skills 
+
 
 
 # [Summer 2025 IS6640 Text Analytics](https://github.com/Easlami/mktg-6640-project) 
