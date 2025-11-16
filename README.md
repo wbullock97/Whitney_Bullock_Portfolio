@@ -3,7 +3,6 @@
 
 ### Experience 
 Global Logistics and Sales Operations Sr. Manager
-Varex Imaging Corporation 
 
 ### Education 
 University of Utah, David Eccles School of Business
@@ -17,7 +16,6 @@ Six Sigma Green Belt
 Proficient in SAP, TMC, R, Microsoft Office, Canva, Visio 
 International business acumen 
 Project management and leadership 
-
 
 # [Text Analytics](https://github.com/Easlami/mktg-6640-project) 
 
