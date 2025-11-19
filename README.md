@@ -42,3 +42,8 @@ Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes e
 Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, we predict repayment capability to identify reliable target customers while minimizing financial risk. The models developed help support responsible lending and expand credit access safely.
 
 
+--- 
+
+git add .
+git commit -m "Update portfolio content"
+git push
