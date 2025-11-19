@@ -1,13 +1,13 @@
-# [Resume Link](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
+## [Resume Link](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
-## Experience  
+#### Experience  
 **Global Logistics and Sales Operations Sr. Manager, Varex Imaging**
 **Quality Assurance Manager, Varex Imaging** 
-## Education  
+#### Education  
 **University of Utah, David Eccles School of Business**  
 - Masters of Science, Business Analytics — *May 2026*  
 - Bachelors of Science, Business Marketing — *May 2013*
-## Skills  
+#### Skills  
 - Databases, Big Data, Data Visualization  
 - Data Analytics, Predictive Modeling  
 - Six Sigma Green Belt  
@@ -16,7 +16,7 @@
 - Project management and leadership  
 
 ---
-# **Fall 2025 Projects** 
+## **Fall 2025 Projects** 
 
 ### [Individual Machine Learning Model: Home Credit](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
 
@@ -25,9 +25,8 @@ Home Credit is a financial services provider specializing in lending to individu
 ### [Group Machine Learning Model: Home Credit]
 ---
 
-# **Previous Individual Projects** 
-
-# [2025-Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
+## **Previous Individual Projects** 
+### [2025-Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
 
 Sentiment and topic analysis on textual data related to Seongbuk-dong. The sentiment analysis revealed that the majority of posts and reviews expressed positive or neutral emotions, highlighting satisfaction with local amenities and community atmosphere. 
 
@@ -35,8 +34,8 @@ Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes e
 
 ---
 
-# **Previous Group Projects**
-## [2025 - Text Analytics](https://github.com/Easlami/mktg-6640-project)
+## **Previous Group Projects**
+### [2025 - Text Analytics](https://github.com/Easlami/mktg-6640-project)
 
 <img src="images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
 
