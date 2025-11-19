@@ -1,7 +1,8 @@
 # [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
 ## Experience  
-**Global Logistics and Sales Operations Sr. Manager**
+**Global Logistics and Sales Operations Sr. Manager, Varex Imaging**
+**Quality Assurance Manager, Varex Imaging** 
 
 ## Education  
 **University of Utah, David Eccles School of Business**  
