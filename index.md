@@ -49,6 +49,7 @@ Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authe
 In this project, we apply text analysis to reviews of Seong Buk Dong and its top-performing competitors. Our objective is to identify patterns in customer feedback—especially factors that contribute to higher ratings—such as better service, improved atmosphere, and enhanced dish presentation.
 
 ---
-git add index.md
-git commit -m "Update homepage"
+
+git add index.md _config.yml
+git commit -m "Use index.md as main page"
 git push
