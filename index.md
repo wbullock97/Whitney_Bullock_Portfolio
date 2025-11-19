@@ -1,3 +1,7 @@
+---
+title: Whitney Bullock Portfolio
+---
+
 ## [Resume Link](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
 #### Experience  
