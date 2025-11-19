@@ -1,4 +1,4 @@
-[Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
+# [Resume Link](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
 ## Experience  
 **Global Logistics and Sales Operations Sr. Manager, Varex Imaging**
@@ -16,9 +16,18 @@
 - Project management and leadership  
 
 ---
+# **Fall 2025 Projects** 
 
-**Individual Projects** 
-# [Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
+### [Individual Machine Learning Model: Home Credit](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
+
+Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, we predict repayment capability to identify reliable target customers while minimizing financial risk. The models developed help support responsible lending and expand credit access safely.
+
+### [Group Machine Learning Model: Home Credit]
+---
+
+# ** Previous Individual Projects** 
+
+# [2025-Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
 
 Sentiment and topic analysis on textual data related to Seongbuk-dong. The sentiment analysis revealed that the majority of posts and reviews expressed positive or neutral emotions, highlighting satisfaction with local amenities and community atmosphere. 
 
@@ -26,16 +35,10 @@ Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes e
 
 ---
 
-# [Machine Learning Modeling](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
-
-Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, we predict repayment capability to identify reliable target customers while minimizing financial risk. The models developed help support responsible lending and expand credit access safely.
-
---- 
-**Previous Group Projects**
-# [Text Analytics](https://github.com/Easlami/mktg-6640-project)
+# **Previous Group Projects**
+## [2025 - Text Analytics](https://github.com/Easlami/mktg-6640-project)
 
 <img src="images/seong%20buk%20dong.png" alt="Whitney Bullock" width="150"/>
-
 
 ### Text Analytics for Seong Buk Dong  
 Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authentic flavors to critiques around service, ambiance, and value. With hundreds of reviews spanning varied levels of detail, the challenge is to extract actionable insights.
