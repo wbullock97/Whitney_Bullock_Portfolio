@@ -25,7 +25,7 @@ Home Credit is a financial services provider specializing in lending to individu
 ### [Group Machine Learning Model: Home Credit]
 ---
 
-# ** Previous Individual Projects** 
+# **Previous Individual Projects** 
 
 # [2025-Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
 
