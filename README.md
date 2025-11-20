@@ -1,6 +1,6 @@
 # Whitney Bullock – Data & Analytics Portfolio
 
-## [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
+### [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
 ---
 
