@@ -41,6 +41,9 @@ Home Credit is a financial services provider specializing in lending to individu
 
 # Previous Individual Projects
 
+### [Churn Predictions](code here)
+
+
 ### [2025 – Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
 
 Sentiment and topic analysis on textual data related to Seongbuk-dong. The sentiment analysis revealed that the majority of posts and reviews expressed positive or neutral emotions, highlighting satisfaction with local amenities and community atmosphere. Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes emerged. The combination of sentiment and topic insights provides a nuanced understanding of public perception, helping inform urban planning, community engagement, and tourism strategies.
