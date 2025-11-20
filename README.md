@@ -43,6 +43,7 @@ Home Credit is a financial services provider specializing in lending to individu
 
 ### [Churn Predictions](https://github.com/wbullock97/Churn-Predictions-)
 
+Leadership lacked a reliable, data-driven way to identify customers at high risk of cancellation. The leadership team has requested a tool to identify customers that are high risk of leaving as well as outreach efforts to these customers. Retention activities have costs associated with them, so an efficient allocation strategy is essential. The project was able to identify high risk churn customers and provide a thoughtful, strategic, and cost-effective plan to engage customers and prevent churn.  
 
 ### [2025 – Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
 
