@@ -23,6 +23,7 @@ Quality Assurance Manager, Varex Imaging
 - Project management and leadership  
 
 ### [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
+
 ---
 
 # Fall 2025 Projects
