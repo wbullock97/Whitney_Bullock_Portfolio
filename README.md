@@ -64,3 +64,5 @@ Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authe
 
 git commit --allow-empty -m "Trigger rebuild"
 git push
+
+https://wbullock97.github.io/{Whitney_Bullock_Portfolio}/index.html
