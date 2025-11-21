@@ -60,9 +60,3 @@ Sentiment and topic analysis on textual data related to Seongbuk-dong. The senti
 Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authentic flavors to critiques around service, ambiance, and value. With hundreds of reviews spanning varied levels of detail, the challenge is to extract actionable insights. In this project, we apply text analysis to reviews of Seong Buk Dong and its top-performing competitors. Our objective is to identify patterns in customer feedback—especially factors that contribute to higher ratings—such as better service, improved atmosphere, and enhanced dish presentation.
 
 <img src="images/seong%20buk%20dong.png" alt="Seong Buk Dong Analysis" width="300"/>
-
-
-git commit --allow-empty -m "Trigger rebuild"
-git push
-
-https://wbullock97.github.io/{Whitney_Bullock_Portfolio}/index.html
