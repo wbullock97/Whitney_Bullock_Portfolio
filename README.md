@@ -28,11 +28,13 @@ Quality Assurance Manager, Varex Imaging
 
 # Fall 2025 Projects
 
-### [Individual Machine Learning Model: Home Credit](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
-
+### [Individual Machine Learning Model](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
+#### Home Credit 
 Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, we predict repayment capability to identify reliable target customers while minimizing financial risk. The models developed help support responsible lending and expand credit access safely.
 
-### Group Machine Learning Model: Home Credit
+### [Group Machine Learning Model: Home Credit]
+#### Home Credit 
+
 *(Details coming soon)*
 
 ---
@@ -40,11 +42,11 @@ Home Credit is a financial services provider specializing in lending to individu
 # Previous Individual Projects
 
 ### [2025 - Churn Predictions](https://github.com/wbullock97/Churn-Predictions-)
-
+#### Phone Servicing 
 Leadership lacked a reliable, data-driven way to identify customers at high risk of cancellation. The leadership team has requested a tool to identify customers that are high risk of leaving as well as outreach efforts to these customers. Retention activities have costs associated with them, so an efficient allocation strategy is essential. The project was able to identify high risk churn customers and provide a thoughtful, strategic, and cost-effective plan to engage customers and prevent churn.  
 
 ### [2025 – Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
-
+#### Seong Buk Dong 
 Sentiment and topic analysis on textual data related to Seongbuk-dong. The sentiment analysis revealed that the majority of posts and reviews expressed positive or neutral emotions, highlighting satisfaction with local amenities and community atmosphere. Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes emerged. The combination of sentiment and topic insights provides a nuanced understanding of public perception, helping inform urban planning, community engagement, and tourism strategies.
 
 ---
