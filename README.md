@@ -1,3 +1,8 @@
+---
+layout: default
+title: Whitney Bullock Portfolio
+---
+
 # Whitney Bullock – Data & Analytics Portfolio
 
 ---
