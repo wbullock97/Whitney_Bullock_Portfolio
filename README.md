@@ -9,7 +9,6 @@ title: Whitney Bullock Portfolio
 
 ## Experience  
 Global Logistics and Sales Operations Sr. Manager, Varex Imaging
-
 Quality Assurance Manager, Varex Imaging
 
 
