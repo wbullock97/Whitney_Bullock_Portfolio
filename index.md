@@ -28,8 +28,7 @@ title: Whitney Bullock Portfolio
 - Project management and leadership  
 
 ### [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-bullock-47ab1225/)
+### Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-bullock-47ab1225/)
 
 ## IS-6812 Capstone 
 
