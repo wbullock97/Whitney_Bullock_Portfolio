@@ -10,7 +10,7 @@ Quality Assurance Manager, Varex Imaging
 
 ## Education  
 **University of Utah, David Eccles School of Business**  
-- Master of Science, Business Analytics — *May 2026*  
+- Master of Science, Business Analytics — *May 2026*
 - Bachelor of Science, Business Marketing — *May 2013*
 
 
