@@ -7,19 +7,17 @@ title: Whitney Bullock Portfolio
 
 ---
 
-## Experience  
+### Experience  
 - Global Logistics and Sales Operations Sr. Manager, **Varex Imaging**
 - Quality Assurance Manager, **Varex Imaging**
 
-
-## Education  
+### Education  
 **University of Utah, David Eccles School of Business**  
 - Master of Science, Business Analytics — *May 2026*
 - Bachelor of Science, Business Marketing — *May 2013*
   -  *Emphasis in International Business* 
 
-
-## Skills  
+### Skills  
 - Databases, Big Data, Data Visualization  
 - Data Analytics, Predictive Modeling  
 - Six Sigma Green Belt  
