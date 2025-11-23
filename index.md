@@ -17,6 +17,7 @@ title: Whitney Bullock Portfolio
 
 - Master of Science, Business Analytics — *May 2026*
 - Bachelor of Science, Business Marketing — *May 2013*
+-   *Emphasis in International Business* 
 
 
 ## Skills  
