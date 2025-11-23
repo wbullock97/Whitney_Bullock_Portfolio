@@ -42,6 +42,7 @@ Home Credit is a financial services provider specializing in lending to individu
 
 *(Details coming soon)*
 
+<img src="images/Homecredit group.png" alt="Home Credit" width="300"/>
 
 # Previous Individual Projects
 
