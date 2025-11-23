@@ -3,13 +3,14 @@ layout: default
 title: Whitney Bullock Portfolio
 ---
 
-# Whitney Bullock – Data & Analytics Portfolio
+# Data Analytics Portfolio
 
 ---
 
 ## Experience  
 - Global Logistics and Sales Operations Sr. Manager, **Varex Imaging**
 - Quality Assurance Manager, **Varex Imaging**
+- Customer Service Manager, **Varex Imaging**
 
 
 ## Education  
@@ -28,10 +29,9 @@ title: Whitney Bullock Portfolio
 - International business acumen  
 - Project management and leadership  
 
-### [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
+## [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
-
-# Fall 2025 Projects
+## IS-6812 Capstone 
 
 ### [Individual Machine Learning Model](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
 #### Home Credit 
