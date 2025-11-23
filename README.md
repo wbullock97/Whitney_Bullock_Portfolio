@@ -14,6 +14,7 @@ title: Whitney Bullock Portfolio
 
 ## Education  
 **University of Utah, David Eccles School of Business**  
+
 - Master of Science, Business Analytics — *May 2026*
 - Bachelor of Science, Business Marketing — *May 2013*
 
@@ -28,7 +29,6 @@ title: Whitney Bullock Portfolio
 
 ### [Resume](https://github.com/wbullock97/Bullock-Resume/blob/main/Resume%202025.txt)
 
----
 
 # Fall 2025 Projects
 
@@ -41,19 +41,21 @@ Home Credit is a financial services provider specializing in lending to individu
 
 *(Details coming soon)*
 
----
 
 # Previous Individual Projects
 
 ### [2025 - Churn Predictions](https://github.com/wbullock97/Churn-Predictions-)
+
 #### Phone Servicing 
+
 Leadership lacked a reliable, data-driven way to identify customers at high risk of cancellation. The leadership team has requested a tool to identify customers that are high risk of leaving as well as outreach efforts to these customers. Retention activities have costs associated with them, so an efficient allocation strategy is essential. The project was able to identify high risk churn customers and provide a thoughtful, strategic, and cost-effective plan to engage customers and prevent churn.  
 
 ### [2025 – Sentiment and LDA Analysis](https://github.com/wbullock97/IS6812-001/blob/main/Sentiment%20and%20LDA%20group%20pro1%20(1).Rmd)
+
 #### Seong Buk Dong 
+
 Sentiment and topic analysis on textual data related to Seongbuk-dong. The sentiment analysis revealed that the majority of posts and reviews expressed positive or neutral emotions, highlighting satisfaction with local amenities and community atmosphere. Using Latent Dirichlet Allocation (LDA) for topic modeling, several key themes emerged. The combination of sentiment and topic insights provides a nuanced understanding of public perception, helping inform urban planning, community engagement, and tourism strategies.
 
----
 
 # Previous Group Projects
 
