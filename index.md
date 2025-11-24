@@ -50,7 +50,12 @@ My personal contributions to the project include
 ### [Group Machine Learning Model: Home Credit](https://github.com/wbullock97/Group-5-Project-Home-Credit-EDA-and-Modeling-/tree/main)
 #### Home Credit 
 
-*(Details coming soon)*
+#### Business Problem 
+
+#### Conclusion 
+The analysis identified external credit scores as the most robust predictors of default risk. Higher scores strongly correlate with lower risk. Age and employment history provide secondary predictive value, while demographic factors like gender and income show negligible utility in isolation.
+
+The Gradient Boosting model (XGBoost) demonstrated superior performance (AUC 0.742) compared to Logistic Regression, Decision Trees, and Random Forests. It is recommended that Home Credit utilize this model to prioritize the riskiest applicants (e.g., the top 10%) for manual review, thereby optimizing resource allocation and minimizing potential defaults.
 
 <img src="images/Homecredit group.png" alt="Home Credit" width="300"/>
 
