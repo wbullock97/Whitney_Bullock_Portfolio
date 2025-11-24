@@ -12,8 +12,8 @@ title: Whitney Bullock Portfolio
 - Quality Assurance Manager, **Varex Imaging**
 
 ### Education  
-- Master of Science, Business Analytics — **University of Utah** *May 2026*
-- Bachelor of Science, Business Marketing — **University of Utah** *May 2013*
+- MS, Business Analytics — **University of Utah** *May 2026*
+- BS, Business Marketing — **University of Utah** *May 2013*
   -  *Emphasis in International Business* 
 
 ### Skills  
