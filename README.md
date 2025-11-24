@@ -8,17 +8,17 @@ This is a repo for the practice capstone project completed by Group 5 during Fal
 
 ---
 ## Highlights 
-⭐Business Problem
+- Business Problem
 
-⭐Solution to Business Problem 
+- Solution to Business Problem
 
-⭐Personal Contribution
+- Personal Contribution
 
-⭐Business Value of Solution
+- Business Value of Solution
 
-⭐Difficulties During Project
+- Difficulties During Project
 
-⭐Key Takeaways 
+- Key Takeaways 
 
 
 ## Business Problem 
@@ -43,13 +43,13 @@ My personal contributions to the project include
 ## Business Value of Solution 
 There are four objectives in our solution to add value to the business: 
 
-✔️Maximize Customer Base 
+- Maximize Customer Base
 
-✔️Minimize Financial Risk 
+- Minimize Financial Risk
 
-✔️Empower Financial Freedom 
+- Empower Financial Freedom
 
-✔️Enhance Operation Efficiency 
+- Enhance Operation Efficiency 
 
 By accurately predicting customer's likelihood of defaulting on a loan with limited credit history Home Credit can make more informed lending decisions.  This will enable Home Credit to responsibly extend credit to a broader range of customers while reducing their risk of default.  Our solution supports responsible lending for Home Credit and financial inclusion for it's customers, who generally are underserved.  A bi-product of the decision tree model is the ability generate automated approval / rejection processes based on specific loan application responses.  Overall, our predictive models empower Home Credit to balance financial inclusion with risk mitigation, strengthening Home Credit's customer reach and sustainability.  
 
