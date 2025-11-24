@@ -36,7 +36,7 @@ title: Whitney Bullock Portfolio
 
 Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, I completed machine learning models to predict repayment capability; identifying reliable target customers while minimizing financial risk to Home Credit. The models developed help support Home Credit's goal of responsible lending and expanding credit access safely to more people.
 
-### [Group Machine Learning Model: Home Credit]
+### [Group Machine Learning Model: Home Credit](https://github.com/wbullock97/Group-5-Project-Home-Credit-EDA-and-Modeling-/tree/main)
 #### Home Credit 
 
 *(Details coming soon)*
