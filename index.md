@@ -12,9 +12,8 @@ title: Whitney Bullock Portfolio
 - Quality Assurance Manager, **Varex Imaging**
 
 ### Education  
-**University of Utah, David Eccles School of Business**  
-- Master of Science, Business Analytics — *May 2026*
-- Bachelor of Science, Business Marketing — *May 2013*
+- Master of Science, Business Analytics — **University of Utah** *May 2026*
+- Bachelor of Science, Business Marketing — **University of Utah** *May 2013*
   -  *Emphasis in International Business* 
 
 ### Skills  
@@ -33,7 +32,7 @@ title: Whitney Bullock Portfolio
 
 ### [Individual Machine Learning Model](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
 #### Home Credit 
-Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, we predict repayment capability to identify reliable target customers while minimizing financial risk. The models developed help support responsible lending and expand credit access safely.
+Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, I completed machine learning models to predict repayment capability; identifying reliable target customers while minimizing financial risk to Home Credit. The models developed help support Home Credit's goal of responsible lending and expanding credit access safely to more people.
 
 ### [Group Machine Learning Model: Home Credit]
 #### Home Credit 
