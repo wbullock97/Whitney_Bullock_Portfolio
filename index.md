@@ -45,7 +45,7 @@ My personal contributions to the project include
 
 📉Decision Tree Model - Built and fine-tuned decision tree model to address class imbalance and identify efficiencies 
 
-🧍Presentation Slide Deck - Summarized core findings, methodology, and business impacts 
+🧍Presentation - Summarized core findings, methodology, and business impacts 
 
 ### [Group Machine Learning Model: Home Credit](https://github.com/wbullock97/Group-5-Project-Home-Credit-EDA-and-Modeling-/tree/main)
 
