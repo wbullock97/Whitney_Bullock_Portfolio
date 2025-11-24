@@ -30,9 +30,13 @@ To address Home Credit's need for reliable and responsible lending decisions, ou
 ## Personal Contribution 
 My personal contributions to the project include 
 📝Business Problem Statement - Defined the problem scope, objectives, and business context for Home Credit 
+
 📊Exploratory Data Analysis - Analyzed and visualized data to uncover patterns and anomalies 
+
 🤖Logistic Regression Model - Developed and evaluated a logistic regression model to predict loan defaults 
+
 📉Decision Tree Model - Built and fine-tuned decision tree model to address class imbalance and identify efficiencies 
+
 🧍Presentation Slide Deck - Summarized core findings, methodology, and business impacts 
 
 ## Business Value of Solution 
