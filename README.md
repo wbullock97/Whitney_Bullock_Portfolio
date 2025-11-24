@@ -11,7 +11,6 @@ This is a repo for the practice capstone project completed by Group 5 during Fal
 - Business Problem
 
 - Solution to Business Problem
-
 - Personal Contribution
 
 - Business Value of Solution
