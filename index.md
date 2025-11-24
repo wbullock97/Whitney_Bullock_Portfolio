@@ -30,11 +30,22 @@ title: Whitney Bullock Portfolio
 
 ## IS-6812 Capstone 
 
-### [Individual Machine Learning Model Code](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
-### [ReadME](https://github.com/wbullock97/Whitney_Bullock_Portfolio/blob/Main/README.md) 
 #### Home Credit 
-
 Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, I completed machine learning models to predict repayment capability; identifying reliable target customers while minimizing financial risk to Home Credit. The models developed help support Home Credit's goal of responsible lending and expanding credit access safely to more people.
+
+### [Individual Machine Learning Model Code](https://github.com/wbullock97/Home-Credit-Analysis/blob/main/Modeling.Rmd)
+
+My personal contributions to the project include 
+
+📝Business Problem Statement - Defined the problem scope, objectives, and business context for Home Credit 
+
+📊Exploratory Data Analysis - Analyzed and visualized data to uncover patterns and anomalies 
+
+🤖Logistic Regression Model - Developed and evaluated a logistic regression model to predict loan defaults 
+
+📉Decision Tree Model - Built and fine-tuned decision tree model to address class imbalance and identify efficiencies 
+
+🧍Presentation Slide Deck - Summarized core findings, methodology, and business impacts 
 
 ### [Group Machine Learning Model: Home Credit](https://github.com/wbullock97/Group-5-Project-Home-Credit-EDA-and-Modeling-/tree/main)
 #### Home Credit 
