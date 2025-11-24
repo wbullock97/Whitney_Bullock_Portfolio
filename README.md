@@ -29,6 +29,7 @@ To address Home Credit's need for reliable and responsible lending decisions, ou
 
 ## Personal Contribution 
 My personal contributions to the project include 
+
 📝Business Problem Statement - Defined the problem scope, objectives, and business context for Home Credit 
 
 📊Exploratory Data Analysis - Analyzed and visualized data to uncover patterns and anomalies 
