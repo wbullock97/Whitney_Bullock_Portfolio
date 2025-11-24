@@ -48,9 +48,13 @@ My personal contributions to the project include
 🧍Presentation Slide Deck - Summarized core findings, methodology, and business impacts 
 
 ### [Group Machine Learning Model: Home Credit](https://github.com/wbullock97/Group-5-Project-Home-Credit-EDA-and-Modeling-/tree/main)
-#### Home Credit 
 
 #### Business Problem 
+Home Credit’s operational model is fundamentally about financial inclusion. Loans are provided to populations with little or no credit history—groups often rejected by traditional banks. This creates a risk assessment challenge: evaluating repayment likelihood without standard credit scores.
+
+The core issue is information asymmetry. Strict approval criteria exclude creditworthy applicants, failing the corporate mission. Lenient criteria result in financial losses from defaults.
+
+The goal is not merely prediction accuracy, as only 8% of the population defaults. A basic model could achieve 92% accuracy simply by approving every applicant, but this fails to manage risk. Instead, applicants must be ranked by default likelihood using AUC-ROC. This approach identifies specific “invisible risk” cases for further review.
 
 #### Conclusion 
 The analysis identified external credit scores as the most robust predictors of default risk. Higher scores strongly correlate with lower risk. Age and employment history provide secondary predictive value, while demographic factors like gender and income show negligible utility in isolation.
