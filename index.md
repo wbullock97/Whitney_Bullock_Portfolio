@@ -89,4 +89,4 @@ Seong Buk Dong has received mixed reviews on Yelp, ranging from praise for authe
 <img src="images/seong%20buk%20dong.png" alt="Seong Buk Dong Analysis" width="300"/>
 
 github:
-  repository: wbullock97/wbullock97.github.io
+  repository: wbullock97/wbu
