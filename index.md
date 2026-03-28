@@ -35,13 +35,13 @@ This analysis identifies the key drivers of lead conversion for the Mx product a
 
 Based on these insights the identified ICP achieved a conversion rate of 19% improving the existing conversion rate by 49%. This represents a substantial improvement in targeting efficiency for MasterControl. 
 
-### [Individual Machine Learning Models](https://github.com/wbullock97/MasterControl-Whitney-Bullock/tree/main)
+### [Individual Machine Learning Models for MasterControl](https://github.com/wbullock97/MasterControl-Whitney-Bullock/tree/main)
 ## IS-6812 Capstone 
 
 #### Home Credit 
 Home Credit is a financial services provider specializing in lending to individuals with little or no credit history. In this project, I completed machine learning models to predict repayment capability; identifying reliable target customers while minimizing financial risk to Home Credit. The models developed help support Home Credit's goal of responsible lending and expanding credit access safely to more people.
 
-### [Individual Machine Learning Model](https://github.com/wbullock97/Home-Credit-Analysis)
+### [Individual Machine Learning Model for Home Credit](https://github.com/wbullock97/Home-Credit-Analysis)
 
 My personal contributions to the project include 
 
