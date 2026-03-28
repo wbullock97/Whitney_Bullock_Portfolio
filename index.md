@@ -31,7 +31,9 @@ title: Whitney Bullock Portfolio
 ## MasterControl Capstone Project 
 
 #### MasterControl 
+This analysis identifies the key drivers of lead conversion for the Mx product and defines a clear, data-backed Ideal Customer Profile (ICP) to improve targeting and performance. Through exploratory analysis and predictive modeling, I found that conversion is most strongly influenced by industry, company size, territory, and contact lead title.  Focusing sales and marketing efforts on regulated industries, prioritizing small to medium-sized accounts, targeting decision-makers in management and engineering roles, and emphasizing high-intent engagement channels will significantly increase Mx conversion performance and overall pipeline efficiency.
 
+Based on these insights the identified ICP achieved a conversion rate of 19% improving the existing conversion rate by 49%. This represents a substantial improvement in targeting efficiency for MasterControl. 
 
 ### [Individual Machine Learning Models](https://github.com/wbullock97/MasterControl-Whitney-Bullock/tree/main)
 ## IS-6812 Capstone 
