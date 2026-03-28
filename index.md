@@ -28,6 +28,12 @@ title: Whitney Bullock Portfolio
 ### Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-bullock-47ab1225/)
 
+## MasterControl Capstone Project 
+
+#### MasterControl 
+
+
+### [Individual Machine Learning Models](https://github.com/wbullock97/MasterControl-Whitney-Bullock/tree/main)
 ## IS-6812 Capstone 
 
 #### Home Credit 
