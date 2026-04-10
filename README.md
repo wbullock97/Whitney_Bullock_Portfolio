@@ -6,7 +6,7 @@ Inside, you will find projects that highlight my skills in data analysis, proble
 ### 🔍 What You Will Find 
 
 - Resume
-- Featured projects with clear documentation
+- Featured projects
 - Reproducible code and analysis
 - Real-world applications and case studies
 - Ongoing learning and experiments
